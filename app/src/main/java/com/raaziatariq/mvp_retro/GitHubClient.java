@@ -9,7 +9,7 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 public interface GitHubClient {
-//    @GET("/placementapi/schedule/pages/daily/web")
+//    @GET("/web")
 //    Call<List<GitHubRepo>> reposForUser(
 //            @Query("startDate") String date,
 //            @Query("pageName") String coupon
