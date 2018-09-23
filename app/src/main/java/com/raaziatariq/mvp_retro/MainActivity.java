@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         Pagination_List = findViewById(R.id.pagination_list);
 
 //        Retrofit.Builder builder = new Retrofit.Builder()
-//                .baseUrl("https://api.pdn.netpace.net/")
+//                .baseUrl("https://api.net/")
 //                .addConverterFactory(GsonConverterFactory.create());
 //
 //        Retrofit retrofit = builder.build();
