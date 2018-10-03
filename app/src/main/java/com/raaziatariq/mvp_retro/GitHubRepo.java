@@ -3,10 +3,10 @@ package com.raaziatariq.mvp_retro;
 
 public class GitHubRepo {
 
-   private String title;
+   private String name;
 
-    public String getTitle() {
-        return title;
+    public String getName() {
+        return name;
     }
 
 
